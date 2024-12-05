@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VerificaNúmeroPrimo</string>
+    <string name="txtTitulo">Verificação de números primos</string>
+    <string name="txtN1">Insira um número inteiro positivo</string>
+    <string name="btnCalcular">Calcular</string>
+
+
+</resources>
